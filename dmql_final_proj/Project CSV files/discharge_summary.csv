@@ -1,0 +1,16 @@
+"dept_no","dept_name","no_of_doctors"
+1,"Accidents and Emergency",NULL
+2,"Burn center",NULL
+3,"Cardiology",NULL
+4,"Critical Care",NULL
+5,"Ear, Nose and Throat",NULL
+6,"Gastroenterology",NULL
+7,"Gynaecology",NULL
+8,"Neonatal Care",NULL
+9,"Nephrology",NULL
+10,"Neurology",NULL
+11,"Oncology",NULL
+12,"Orthopaedics",NULL
+13,"Ophthalmology",NULL
+14,"Paediatrics",NULL
+15,"General Physician",NULL

@@ -1,0 +1,9 @@
+# install flask and sql ORM
+pip install flask flask_bootstrap sqlalchemy Flask-WTF wtforms
+
+
+
+Running website
+in Powershell - $env:FLASK_APP = "website"
+Run website - flask Run
+Run website with auto-reload - flask --debug run

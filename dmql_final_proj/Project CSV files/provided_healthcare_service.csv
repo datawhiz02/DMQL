@@ -1,0 +1,125 @@
+"service_id","dept_no","service_desc","service_charge","service_code"
+"BLTR",1,"Blood transfusion","$20,000.00",NULL
+"HYT",2,"Hydrotherapy","$2,000.00",NULL
+"SKG",2,"Skin graft","$20,000.00",NULL
+"TET",2,"Tetanus shot","$5,000.00",NULL
+"ABL",3,"Ablation","$60,000.00",NULL
+"ANGIO",3,"Angioplasty","$2,000,000.00",NULL
+"HRTPLNT",3,"Heart Transplant","$3,500,000.00",NULL
+"VLVREP",3,"Heart Valve Repair","$2,500,000.00",NULL
+"STENT",3,"Stenting","$300,000.00",NULL
+"PCMKR",3,"Pacemakers","$300,000.00",NULL
+"ANAES",4,"Administering anaesthesia","$5,000.00",NULL
+"COMA",4,"Medically induced coma","$500,000.00",NULL
+"24x7M",4,"24x7 monitoring of vitals","$500.00",NULL
+"DENG",4,"Dengue","$1,500.00",NULL
+"TYP",4,"Typhoid","$15,000.00",NULL
+"CHO",4,"Cholera","$1,500.00",NULL
+"JAUN",4,"Jaundice","$1,000.00",NULL
+"REHAB",4,"Rehabilitation","$1,000.00",NULL
+"OESENDO",5,"Flexible Oesophageal Endoscopy","$100,000.00",NULL
+"PTAUD",5,"Pure Tone Audiometry","$80,000.00",NULL
+"FFAUD",5,"Free field Audiometry","$80,000.00",NULL
+"CRAUD",5,"Conditioned Response Audiometry","$85,000.00",NULL
+"SSAUD",5,"Speech Audiometry","$85,000.00",NULL
+"BRAUD",5,"Behaviour Response Audiometry","$95,000.00",NULL
+"TYM",5,"Tympanometry","$100,000.00",NULL
+"MESURG",5,"Micro-ear reconstructive surgery","$500,000.00",NULL
+"SPT",5,"Speech therapy","$50,000.00",NULL
+"SISURG",5,"Sinus Surgery","$500,000.00",NULL
+"RHPLY",5,"rhinoplasty","$950,000.00",NULL
+"BRSCPY",5,"Bronchoscopy","$450,000.00",NULL
+"TYPLY",5,"Tympanoplasty","$550,000.00",NULL
+"MSTDEC",5,"Mastoidectomy","$200,000.00",NULL
+"ENDO",6,"Endoscopy","$100,000.00",NULL
+"CLSCP",6,"colonoscopy","$100,000.00",NULL
+"GSTSURG",6,"Gastrointestinal Surgery","$80,000.00",NULL
+"LPSCP",6,"Laparoscopy","$100,000.00",NULL
+"CBDSURG",6,"Common bile duct (CBD) surgery","$100,000.00",NULL
+"PNJSTMY",6,"pancreaticojejunostomy","$100,000.00",NULL
+"CYSTOMY",6,"Cystogastrostomy","$100,000.00",NULL
+"APTOMY",6,"Appendicectomy","$100,000.00",NULL
+"LVBPSY",6,"Liver Biopsy","$100,000.00",NULL
+"HPTS",6,"Chronic Hepatitis","$100,000.00",NULL
+"CHCYTMY",6,"Cholecyctectomy","$100,000.00",NULL
+"SPLTOMY",6,"splenectomy","$100,000.00",NULL
+"CSDEL",7,"Cesarean delivery","$80,000.00",NULL
+"COLPHY",7,"Colporrhaphy","$40,000.00",NULL
+"ENDABL",7,"Endometrial ablation","$40,000.00",NULL
+"HYSTMY",7,"Hysterectomy","$60,000.00",NULL
+"MYMCTMY",7,"Myomectomy","$60,000.00",NULL
+"OOPHTMY",7,"Oophorectomy","$70,000.00",NULL
+"TRLECTMY",7,"Trachelectomy","$30,000.00",NULL
+"TBSURG",7,"Tubal Surgery","$50,000.00",NULL
+"CERVBIOP",7,"Cervical Biopsy","$40,000.00",NULL
+"VAGBIOP",7,"Vaginal biopsy","$70,000.00",NULL
+"LACCNSUL",8,"Lactation consultancy","$40,000.00",NULL
+"RESTHRP",8,"Respiratory therapy","$50,000.00",NULL
+"IVTHRP",8,"intravenous therapy","$50,000.00",NULL
+"ECMO",8,"Extracorporeal membrane oxygenation","$60,000.00",NULL
+"DLY",9,"Dialysis","$60,000.00",NULL
+"RRTHRP",9,"renal replacement therapy","$40,000.00",NULL
+"CCPD",9,"continuous cycling peritoneal dialysis","$60,000.00",NULL
+"CAPD",9,"continuous ambulatory peritoneal dialysis","$60,000.00",NULL
+"KDTRSPL",9,"kidney transplantation","$800,000.00",NULL
+"KDBIOP",9,"Percutaneous kidney biopsies","$60,000.00",NULL
+"HEMDLY",9,"Hemodialysis","$60,000.00",NULL
+"LTHTRPSY",9,"Lithotripsy","$60,000.00",NULL
+"ELMYGRPH",10,"Electromyography","$10,000.00",NULL
+"SS",10,"Sleep Study","$200,000.00",NULL
+"PNS",10,"Peripheral nerve surgery","$1,600,000.00",NULL
+"RS",10,"Radiosurgery","$1,000,000.00",NULL
+"SBS",10,"Skull base surgery","$1,000,000.00",NULL
+"SPNS",10,"Spine Surgery","$1,500,000.00",NULL
+"STN",10,"Stereotactic neurosurgery","$15,000,000.00",NULL
+"CBS",10,"Cerebrovascular surgery","$2,500,000.00",NULL
+"FNS",10,"Functional neurosurgery","$2,000,000.00",NULL
+"CRPLTY",10,"cranioplasty","$500,000.00",NULL
+"FORMTMY",10,"foraminotomy","$500,000.00",NULL
+"RADTHRP",11,"Radiation Therapy","$1,000,000.00",NULL
+"CURSURG",11,"Curative Surgery","$1,000,000.00",NULL
+"PREVSURG",11,"Preventive Surgery","$1,000,000.00",NULL
+"DIAGSURG",11,"Diagnostic Surgery","$1,000,000.00",NULL
+"STAGSURG",11,"Staging Surgery","$1,000,000.00",NULL
+"PALLSURG",11,"Palliative Surgery ","$1,000,000.00",NULL
+"RESTSURG",11,"Restorative Surgery","$1,000,000.00",NULL
+"CHMTHRP",11,"Chemotherapy","$1,000,000.00",NULL
+"STCLTRPL",11,"Stem cell transplant","$1,000,000.00",NULL
+"IMMTHRP",11,"Immunotherapy","$1,000,000.00",NULL
+"HRMNTHRP",11,"Hormone therapy","$1,000,000.00",NULL
+"SFTISREP",12,"Soft tissue repair","$200,000.00",NULL
+"JNTREP",12,"Joint replacement","$400,000.00",NULL
+"REVJNTSURG",12,"Revision joint surgery","$300,000.00",NULL
+"BNFRACREP",12,"Bone fracture repair","$400,000.00",NULL
+"DEBR",12,"Debridement","$100,000.00",NULL
+"BNFUSREP",12,"Bone Fusion repair","$100,000.00",NULL
+"OSTTMY",12,"Osteotomy","$100,000.00",NULL
+"ARTHSCP",12,"Arthroscopy","$800,000.00",NULL
+"CHNDRPLST",12,"Chondroplasty","$700,000.00",NULL
+"KNREPL",12,"Knee replacement","$500,000.00",NULL
+"HIPREPL",12,"Hip replacement","$5,000,000.00",NULL
+"VERDSCSURG",12,"Intervertebral disc surgery","$1,000,000.00",NULL
+"PHYTHRP",12,"Physical therapy","$50,000.00",NULL
+"DACRYTMY",13,"Dacryocystorhinostomy","$200,000.00",NULL
+"EYELIDSURG",13,"Eyelid surgery","$50,000.00",NULL
+"STRBSURG",13,"Strabismus surgery","$50,000.00",NULL
+"CATASURG",13,"Cataract surgery","$60,000.00",NULL
+"GLAUSURG",13,"Glaucoma surgery","$60,000.00",NULL
+"RETSURG",13,"Retinal surgery","$50,000.00",NULL
+"CORSURG",13,"Corneal surgery","$70,000.00",NULL
+"LASEYESURG",13,"Laser eye surgery","$30,000.00",NULL
+"REFRCSURG",13,"Refractive surgery","$40,000.00",NULL
+"CANPLSTY",13,"Canaloplasty","$60,000.00",NULL
+"VITRECTMY",13,"vitrectomy","$70,000.00",NULL
+"OCLPLSURG",13,"Oculoplastic surgery","$60,000.00",NULL
+"PEDPSY",14,"Pediatric psychiatry","$5,000.00",NULL
+"PEDPC",14,"Pediatric primary care ","$400.00",NULL
+"PEDR",14,"Pediatric rheumatology","$10,000.00",NULL
+"PEDGS",14,"Pediatric Genetics services","$5,000.00",NULL
+"INF",15,"Influenza","$300.00",NULL
+"FEV",15,"Fever","$300.00",NULL
+"MIG",15,"Migraines","$300.00",NULL
+"COU",15,"Cough/Sore throat","$300.00",NULL
+"DRH",15,"Diarrhea","$300.00",NULL
+"VOM",15,"Vomiting","$300.00",NULL
+"FA",1,"First aid","$150.00",NULL

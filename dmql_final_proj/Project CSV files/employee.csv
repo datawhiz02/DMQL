@@ -1,0 +1,161 @@
+"e_id","e_type","first_name","last_name","dob","address","gender","phone_number","emergency_contact","date_of_joining","date_of_resigning"
+1,"DOC","Ramesh","Patel","1968-04-11","xxx yyy zz","M","506094","724470","2000-11-04",NULL
+2,"DOC","Suresh","Upadhyay","1966-04-19","hdgd","M","737430","232422","2000-11-08",NULL
+3,"DOC","Jalpa","Asthana","1965-01-24","ttt hhh","F","428782","135343","2000-09-03",NULL
+4,"DOC","Jaydeep","Parekh","1970-01-05","hhh sjsk","M","919753","578678","2000-05-04",NULL
+5,"DOC","Feny","Gadhiya","1953-03-25","xxx yyy jjjj","F","687454","484171","2000-02-07",NULL
+6,"DOC","Shahbaz","Khan","1964-09-01","ddd ff gg","M","888869","922244","2000-01-08",NULL
+7,"DOC","Falguni","Pathak","1962-11-08","ff shsh sh","F","623089","384222","2001-08-24",NULL
+8,"DOC","Raj","Malhotra","1958-10-26","yyy ccc xxx","M","836880","425568","2002-06-29",NULL
+9,"DOC","Abhishek","Patel","1974-01-06","fff rrr sjjs","M","696016","193778","2000-06-12",NULL
+10,"DOC","Bhakti","Dedania","1977-04-05","vvv xxx zzz","F","267510","399106","2001-05-18",NULL
+11,"DOC","Shanaya","Chaudhary","1977-08-02","sss ddd","F","310209","547446","2000-12-14",NULL
+12,"DOC","Kuldeep","Gajjar","1983-06-19","ggg","M","726341","941983","2001-01-11",NULL
+13,"DOC","Yash","Shihora","1968-07-19","ggghfhd","M","721280","166937","2002-09-12",NULL
+14,"DOC","Rutvik","Patil","1961-01-10","fff","M","323424","303785","2002-10-08",NULL
+15,"DOC","Yogesh","Modi","1969-03-23","hrewks","M","894026","631161","2003-03-16",NULL
+16,"DOC","Neeta","Singh","1963-07-13","jkers","F","436637","60492","2001-11-25","2010-03-14"
+17,"DOC","Tarang","Pathak","1962-08-28","rrr eee www","M","603352","769737","2000-08-06",NULL
+18,"DOC","Harish","Chandra","1974-04-27","uuu yyy","M","664857","679941","2011-07-13","2018-02-15"
+19,"DOC","Jagruti","Nath","1976-02-01","hhh","F","680042","866261","2018-01-28",NULL
+20,"DOC","Payal","Tanna","1980-06-13","ddd rrr eee","F","55669","588818","2016-11-06",NULL
+21,"DOC","Shailesh","Jadeja","1976-04-20","aa ddgjss","M","604624","251582","2009-02-24",NULL
+22,"DOC","Harish","Chandra","1984-02-05","q234jfh jdh","M","17508","1007833","2011-05-12",NULL
+23,"DOC","Shyam","Jadeja","1973-10-05","xlpc3r4x1l19jn7snu","M","104604","144129","2013-05-03",NULL
+24,"DOC","Ram","Jadwani","1963-09-13","ui6thqho74iypf8ytt","M","538123","500829","2016-03-24",NULL
+25,"DOC","Sheila","Yadav","1977-12-11","24iosvtaos5siu8vfp","F","194268","182465","2013-11-07",NULL
+26,"DOC","Rahul","Khurana","1982-09-23","ts4048amt7kg653nk4","M","315619","331362","2015-03-01",NULL
+27,"DOC","Jasmine","Kundani","1968-04-11","zhdaukj7z2fzq5hq88","F","750669","944371","2009-11-04","2017-03-30"
+28,"DOC","Kajal","Tiwari","1981-03-16","82uijrqfybkcmsnm19","F","100021","614616","2018-06-12",NULL
+29,"DOC","Nayan","Patel","1966-05-24","8hmmdu3um6z971xjzr","M","396174","737048","2015-04-10",NULL
+30,"DOC","Aarav","Duggal","1974-01-06","7e85sd97470aeg6fg2","M","745499","876906","2017-06-01",NULL
+31,"DOC","Farah","Khanna","1966-09-24","icl25rncksji9kc438","F","389241","229456","2017-04-15",NULL
+32,"DOC","Shubham","Pandya","1976-01-05","cu1m7rebvhrjy7fusf","M","580203","717798","2011-05-09",NULL
+33,"DOC","Hardik","Kohli","1973-04-27","2mqhbeg73fcl49zp05","M","230389","709202","2016-02-01",NULL
+34,"DOC","Rohit","Sharma","1967-03-17","6uc4a8mvkmm8l1765p","M","442536","667364","2015-07-12",NULL
+35,"DOC","Mohammad","Shami","1981-10-13","33va44htejqn0vcsev","M","786536","664815","2017-03-13",NULL
+36,"DOC","Shikhar","Dhawan","1980-08-07","0b17xqzaarmibi9wus","M","330003","221000","2015-07-11",NULL
+37,"DOC","Purvi","Gajjar","1969-11-11","n326o4jzhlt8ybp69o","F","281709","600688","2003-11-07","2018-05-25"
+38,"DOC","Krina","Savaliya","1978-11-27","9vn5kjf84ezpci8xa2","F","302242","106471","2018-07-07",NULL
+39,"DOC","Geeta","Tanna","1970-10-14","rpzg85o16wmqczauc0","F","890535","488479","2015-04-01",NULL
+40,"DOC","Shivam","Parekh","1964-06-06","rz94tb2tx9powrop5j","M","580315","967853","2017-06-12",NULL
+41,"DOC","Gayatri ","Deshmukh","1962-05-11","4boyk9n09gxvwktnhd","F","917721","604163","2012-11-02",NULL
+42,"DOC","Hitarth","Pandya","1969-09-27","s68b8l54jr4efmncr7","M","461504","935975","2014-07-11",NULL
+43,"DOC","Sudesh","Parikh","1979-03-08","3hpw7lmn6utaq6f3nr","M","351946","40600","2009-08-07","2017-09-08"
+44,"DOC","Maniklal","Shah","1982-08-22","gso3ljbfhkrft9bwwp","M","953173","319933","2017-12-11",NULL
+45,"DOC","Kuldeep","Gupta","1979-03-15","iiva85l3q402hi3hbo","M","759789","510331","2012-01-07",NULL
+46,"DOC","Harsh","Sharma","1963-11-01","lrhhebmrpgce1xfzmd","M","138091","854638","2018-11-07",NULL
+47,"DOC","Raghu","Sinha","1980-06-20","b5mwg07p1sidmj3nkx","M","882052","738120","2017-10-07",NULL
+48,"DOC","Aarushi","Talwar","1961-03-15","bjteu697b1j2nalfb0","F","933013","888493","2016-12-09",NULL
+49,"DOC","Harshil","Mehta","1969-08-01","ayr9dozbvyvn1iskfn","M","959017","858336","2009-11-08",NULL
+50,"DOC","Hariprasad","Singhania","1972-08-25","0i57hftcdjkwvp4cb9","M","24191","22894","2010-05-11",NULL
+51,"NUR","Shivani","Malhotra","1961-02-02","r0qk8gc455rldq2rc6","F","143389","94049","2016-12-11",NULL
+52,"NUR","Jhanvi","Joshi","1961-02-26","35z754bwr9ch9x2h69","F","248533","295111","2018-06-01",NULL
+53,"NUR","Kanika","Gupta","1965-01-26","bl1zhs7k87wgsailb0","F","806656","975846","2018-06-04",NULL
+54,"NUR","Leela","Singhania","1984-02-01","2us3r3wie6nsbraitp","F","149679","238472","2011-01-04",NULL
+55,"NUR","Sita","Chokhani","1965-11-03","idqew2gscfupinjifu","F","13865","214284","2018-03-02",NULL
+56,"NUR","Raghunath","Bharani","1963-07-02","ltgqsztgowuc74o52o","M","139460","773010","2013-02-01",NULL
+57,"NUR","Vikas","Nair","1976-12-27","tq2baj8bpwfvnvoldw","M","70873","971318","2015-07-10",NULL
+58,"NUR","Gamita","Banerjee","1978-02-15","8ljqbfu7s87ww8rt5y","F","192802","259166","2015-05-10",NULL
+59,"NUR","Naresh","Mehta","1960-09-20","263yzxzv40nhi05yi9","M","48465","664665","2011-02-12",NULL
+60,"NUR","Jhansi","Gandhi","1974-10-27","4d26edwlbwt5tqobgt","F","414437","390357","2018-07-29",NULL
+61,"NUR","Parita","Thakkar","1962-02-20","b6kvf0672ikbbwms0s","F","751962","612926","2018-10-01",NULL
+62,"NUR","Payal","Panara","1968-09-10","29ezio6nvfhbzmz7rb","F","904678","132190","2015-10-11",NULL
+63,"NUR","Dhwani","Shah","1972-12-01","o38cf1wt3wpsdxwpme","F","145648","256394","2011-01-04",NULL
+64,"NUR","Hiral","Adesara","1965-08-20","t678c8y5b9cgzj6lx4","F","777613","399171","2010-10-12",NULL
+65,"NUR","Kinjal","Patel","1975-03-16","fzu0z9rrlvfuacz6fn","F","472010","292321","2009-06-08",NULL
+66,"NUR","Kajal","Singh","1984-05-19","adz0ozfjt9v3amry0p","F","44806","898614","2016-09-10",NULL
+67,"NUR","Rajesh","Lahiri","1977-07-02","5eb2bgdomol2xm4o3b","M","423412","53633","2018-02-26",NULL
+68,"NUR","Saif","Khan","1980-03-16","x42138hfwdmtpwnb0a","M","92053","693090","2010-06-12",NULL
+69,"NUR","Maitri","Manek","1974-01-07","f2j7ubxcz3ttmgy9if","F","341305","1006274","2014-07-02",NULL
+70,"NUR","Harshit","Agarwal","1972-11-16","hn2l779qzrit8g705z","M","490278","639727","2016-06-12",NULL
+71,"NUR","Nisha","Nair","1961-06-20","07z5uyzqy5tn4ug9h2","F","327102","994034","2009-02-05",NULL
+72,"NUR","Nidhi","Jha","1972-01-17","8lslkfcoqfuij3dlme","F","45246","901508","2009-07-08",NULL
+73,"NUR","Harsha","Bhogle","1960-09-25","g5ug7646yi1cnnky4w","F","618540","605594","2003-12-04","2017-04-15"
+74,"NUR","DHara","Sagar","1963-12-28","qn6iqjdyox241fsc4p","F","882274","557551","2013-08-02",NULL
+75,"NUR","Jagruti","Pathak","1960-04-11","0wgvunbk0d71x40e52","F","877894","85090","2001-11-05","2017-05-16"
+76,"NUR","Leena","Maher","1960-10-11","7wknpjika78uzavo1j","F","578302","167080","2014-11-04",NULL
+77,"NUR","Shyamlal","Dharokha","1969-11-01","jzqzqidj8d14ga4wio","M","246033","413168","2000-01-03",NULL
+78,"NUR","Sheetal","Chaudhary","1976-11-01","ldy7bk30go79ozlkcx","F","66646","824618","2005-01-09",NULL
+79,"NUR","Darshana","Chavda","1969-07-27","qcfiteiccbcts5h1t1","F","60246","464733","2008-02-10",NULL
+80,"NUR","Deepali","Kumar","1962-12-24","awxk6a68jyti3makfn","F","341572","253194","2002-04-21",NULL
+81,"NUR","Kiran","Patel","1963-07-09","557tcmp07fizec9mo9","M","775280","741395","2010-09-01",NULL
+82,"NUR","Jodha","Patnaik","1975-09-26","nczom20elbhm2rdw2z","F","361236","953708","2002-02-09",NULL
+83,"NUR","Urvashi","Pratap","1979-06-04","o17rnwu1sv0vd9264z","F","591782","201163","2011-04-06",NULL
+84,"NUR","Sejal","Rana","1984-03-15","xlh5yyzgp7nx20dow5","F","841498","777263","2003-05-08",NULL
+85,"NUR","Bhanu","Singh","1965-10-08","rg0m6f3qvaccl883ki","M","349952","724421","2004-08-02",NULL
+86,"SEC","Jaggu","Dewan","1967-07-14","4wr0t7me8bejxlb63v","M","329920","161768","2007-01-05",NULL
+87,"SEC","Babloo","Bhagwan","1973-05-12","0qpbc1l0asr7tqmmzk","M","769414","97977","2002-12-06",NULL
+88,"SEC","Shantaram","Kumar","1976-01-28","05fv6cz2wvrq782t8s","M","398699","592049","2012-08-12","2018-08-12"
+89,"SEC","Arun","Lathi","1984-07-18","focqt3ulcaxo1egzi2","M","862188","612965","2011-01-01",NULL
+90,"SEC","Archit","Agarwal","1964-04-10","0objou0c5f54mcgpx6","M","467680","275521","2009-10-09",NULL
+91,"SEC","Deepak","Parekh","1964-07-09","cv8qhk5qrd6jvbi7up","M","672278","242288","2005-09-06",NULL
+92,"SEC","Hari","Purohit","1960-06-26","u2nikxrinvf8hlcvbi","M","282257","54820","2003-02-04",NULL
+93,"SEC","Bhagya","Patil","1974-11-14","8epaf1eac564t6hk8s","M","463645","709588","2000-04-19",NULL
+94,"SEC","Narendra","Baghiya","1980-09-27","u3huh8amjq7o1jz95s","M","144779","978434","2002-02-27",NULL
+95,"SEC","Raju","Bhola","1974-09-12","epduvbtkcr4sqc4qa9","M","802887","840033","2010-12-22",NULL
+96,"SEC","Bakul","Jani","1969-11-23","9epxpc2f2ads3bqd2n","M","870325","577312","2002-03-12",NULL
+97,"JAN","Maganlal","Charotra","1982-11-19","ix6f1yeh0xsiqbz1t2","M","982123","319529","2004-01-09",NULL
+98,"JAN","Ramlal","Patra","1982-04-11","640fih6aebpl4gl5uv","M","272762","657584","2005-11-01",NULL
+99,"JAN","Chaman","Sojitra","1966-01-02","epy163nic4owqf21bx","M","51758","772046","2010-02-09",NULL
+100,"JAN","Mohan","Lahiri","1961-03-02","al81vofy4eoyy2lm4o","M","81567","616033","2013-02-08",NULL
+101,"JAN","Shyam","Gohel","1971-06-14","tca07m59yzr54ckvbh","M","80692","515296","2008-04-12",NULL
+102,"JAN","Darshit","Chavda","1961-11-23","8jcgynhf8rrce75912","M","63432","402561","2002-03-05","2018-08-12"
+103,"JAN","Darshan","Bhagvat","1973-10-20","8fwmrllp5c70utchuj","M","191913","108209","2004-02-03",NULL
+104,"JAN","Parth","Panara","1981-03-02","sj0bntk4rwa0blgyos","M","570973","424510","2003-02-02",NULL
+105,"JAN","Bhola","Raman","1984-07-20","x8szkdgt7hon423bbt","M","356237","48463","2005-02-12",NULL
+106,"JAN","Gagan","Vala","1970-09-24","v9ec9kx03lwg4w67b5","M","124981","67257","2011-04-11",NULL
+107,"JAN","Harsh","Devde","1976-11-04","8h1dsft963hle19lbz","M","388376","985490","2001-04-06",NULL
+108,"JAN","Pavan","Garg","1976-12-21","u33ibpl4r0dj4acu2z","M","1007448","742692","2008-10-04",NULL
+109,"JAN","Shaurya","Hingrajya","1968-05-14","6y2d5ksqg9lz5z4quo","M","593801","761743","2005-09-09",NULL
+110,"JAN","Madhav","Sharma","1963-06-17","zoh0e2u7yyizq4dge0","M","988302","982503","2008-07-30",NULL
+111,"REC","Khushboo","Singh","1966-02-27","o9nw8ca6aabxrq93nb","F","129937","166904","2000-07-11",NULL
+112,"REC","Mallika","Pujara","1970-01-10","1dnxgdh081inqc2s8b","F","791601","600274","2000-10-22",NULL
+113,"REC","Bhavna","Desai","1977-06-09","22a6jjws0rx7t9thz3","F","851156","303864","2000-09-29","2018-02-28"
+114,"REC","Jarna","Gupta","1973-07-05","zqpy6345xirzcnpbt1","F","1002659","157088","2000-05-11",NULL
+115,"REC","Zeal","Vora","1983-12-20","aoxhoxs67za17l942q","F","961838","401079","2000-12-08",NULL
+116,"DOC","Vyom","Sagar","1963-12-27","u015iwiv4s45vfifc0","M","815409","336660","2016-07-27",NULL
+117,"DOC","Shweta","Savaliya","1984-10-24","7yq3wne418ltty6wno","F","83299","912367","2012-11-24",NULL
+118,"DOC","Gaurav","Shankar","1981-02-06","rw5t3q45torlq8mnj4","M","445259","550423","2013-06-12",NULL
+119,"DOC","Ayaan","Mehta","1973-11-16","8d7y8gszxhn9b9ter6","M","431693","904066","2002-04-04",NULL
+120,"DOC","Arjun","Shakti","1962-01-22","1cfn90ghof918ajcvt","M","975217","583578","2000-09-09",NULL
+121,"DOC","Vihaan","Parmar","1951-05-23","yhift2ofj7ty78gzrs","M","516507","139123","2000-10-01",NULL
+122,"DOC","Abhijit","Gosai","1964-05-06","ohdtc6fszyiqeqb6s9","M","343865","212497","2011-06-10",NULL
+123,"DOC","Dhruv","Padaliya","1973-02-11","vorqdbtllyvj1tnonk","M","997289","664029","2009-11-01",NULL
+124,"DOC","Krishna","Shukla","1963-08-12","cs5yqnwt1n5oy8e2pp","M","685642","455462","2008-12-08",NULL
+125,"DOC","Rudra","Shingala","1953-12-21","ovnqu5d67xhggn7vu3","M","107209","886780","2015-01-12",NULL
+126,"DOC","Samarth","Parikh","1968-02-10","sooea6ojoxo7elnwqs","M","70812","978792","2005-10-11",NULL
+127,"DOC","Sania","Gosai","1980-10-06","k50c10v3h8u8p0ki44","F","469820","525396","2010-06-07",NULL
+128,"DOC","Diya","Chotai","1963-09-10","qxed5g17v1yzxm691e","F","628501","139631","2013-10-07",NULL
+129,"DOC","Riya","Kapoor","1974-07-21","tou535e2jnlak9b8s3","F","970998","598608","2012-01-03",NULL
+130,"DOC","Devansh","Ruparelia","1954-09-10","6iy2l45gk5rj25x6ym","M","237058","420184","2003-10-05",NULL
+131,"DOC","Dhyey","Doshi","1972-06-08","fvzu1anvlqq8b6l6hy","M","407649","1004915","2008-08-02",NULL
+132,"DOC","Malti","Ghosh","1979-06-02","3hkbe6cfbkrih0cpl6","F","607894","141859","2012-02-06",NULL
+133,"DOC","Jasbir","Das","1956-03-03","krkpwyd1nlcc0iwv40","M","704311","408489","2013-03-08",NULL
+134,"DOC","Gia","Joshi","1979-10-05","rfofiecqoisd2mdxeu","F","826309","722631","2000-05-11","2018-06-07"
+135,"DOC","Hardik","Dasgupta","1963-02-15","xdtnf3fg5qc6gphqv3","M","343702","865757","2006-12-01",NULL
+136,"DOC","Bharat","Nathwani","1976-05-09","kwln4x4e91l8gr4izk","M","279368","409201","2016-09-05",NULL
+137,"DOC","Sarla","Bachchan","1981-05-24","jmfphbqhv6wsrreii2","F","214845","453047","2015-04-06",NULL
+138,"DOC","Sheetal","Kasauli","1954-04-27","0yml1godsliznmrqh8","F","199456","487595","2016-07-09",NULL
+139,"DOC","Roshan","Singh","1951-02-12","pfsmelmwgcd3jz4h33","M","94162","48409","2001-12-08",NULL
+140,"DOC","Raghubur","Patel","1950-07-27","1qpim99usvec3v2vd2","M","671280","55807","2004-02-01","2017-08-10"
+141,"DOC","Foram","Nathani","1981-10-07","iu95jtfqyi69ukjaln","F","83781","986907","2009-07-04",NULL
+142,"DOC","Karan","Sanghvi","1973-10-22","6ua6sunaabnba11n1y","M","291985","197083","2007-02-11",NULL
+143,"DOC","Hitesh","Saxena","1972-12-22","yc1pvhx8po2ajj4apu","M","596626","190098","2012-02-10",NULL
+144,"DOC","Siddharth","Shastri","1979-04-09","zyftrncczmn7kyxkr0","M","778051","76115","2012-09-05",NULL
+145,"DOC","Bhargav","Soni","1961-08-06","sakr4nrppqd8ykbxhd","M","889247","947575","2009-06-05",NULL
+146,"DOC","Mohammad","Hussein","1980-02-11","1f3yty4xmcjseohp5h","M","51895","140095","2010-11-07",NULL
+147,"DOC","Fatima","Jalwani","1963-04-17","dld2np2tfn1b1p3ge6","F","807646","58255","2005-07-10",NULL
+148,"DOC","Pankti","Dholakia","1979-04-13","jwxbhropv8z6tp61if","F","582039","886529","2008-03-01",NULL
+149,"DOC","Abhishek","Banerjee","1980-11-11","ij60b937wbuuny7k45","M","694816","188012","2016-11-07",NULL
+150,"DOC","Dhairya","Shah","1964-07-20","2ddgx40o7qp5xyouoo","M","626342","444692","2001-02-10",NULL
+151,"DOC","Sujaan","Chatterjee","1972-12-18","ci53upyponzcg07me6","M","459519","176463","2007-01-01",NULL
+152,"DOC","Omkar","Bhanushali","1951-06-17","djkogu04kqvtxnaynn","M","472507","137710","2005-07-05",NULL
+153,"DOC","Inder","Vala","1981-08-17","94y2y7g3elrhp5ftlg","M","409223","750343","2000-01-02",NULL
+154,"DOC","Harin","Popat","1977-03-04","eoj2ur2k0zblh42th7","M","641410","961182","2005-04-07",NULL
+155,"DOC","Charmi","Ramanuj","1954-05-13","wz81hkal6nknp7uar3","F","87183","455581","2013-01-11",NULL
+156,"DOC","Gauri","Modi","1977-03-09","lm21ujywoil5wt8t9v","F","988036","789862","2007-09-11",NULL
+157,"DOC","Faiz","Khan","1978-01-13","ez2u78l23w31yaplvh","M","579301","726626","2015-01-07",NULL
+158,"DOC","Laksh","Nath","1968-10-20","bdzzewq1gyztsql7hy","M","564275","313579","2008-02-10","2018-03-05"
+159,"DOC","Parth","Sharma","1963-04-16","ojgmu5f4w5s9mxdrt2","M","921135","759783","2008-12-08",NULL
+160,"DOC","Pankil","Tanna","1957-04-18","q2kbwi3mzwva9d7aii","M","337454","606382","2002-12-01",NULL
